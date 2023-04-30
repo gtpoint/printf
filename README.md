@@ -2,7 +2,7 @@
 
 A formatted output conversion C program completed as part of the low-level programming and advanced data structures. The program is a pseudo- recreation of the C standard library function, `printf`.
 
-## Description
+## Description of the project
 The function `_printf` writes output to standard output. The function writes the output under the control of a `format` string that specifies how subsequent arguments (accessed via the variable-length argument facilities of `stdarg`) are converted for output.
 
 ### Return Value
