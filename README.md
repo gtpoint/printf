@@ -57,5 +57,5 @@ A `%` is written. No argument is converted. The complete conversion specificatio
 
 
 ## Authors
-* Brennan D Baraban <[oussama el aouzari](https://github.com/gtpoint)> - Alx CEO student
-* Michael Klein <[mKleinCreative](https://github.com/mKleinCreative)> - Alx CEO student
+* Brennan D Baraban <[oussama el aouzari](https://github.com/gtpoint)> - Alx software engineering student
+* Michael Klein <[mKleinCreative](https://github.com/mKleinCreative)> - Alx software engineering student
